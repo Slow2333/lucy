@@ -3,7 +3,7 @@
 
 
 """
-cron: 23 10 * * *
+cron: 23 9 * * *
 new Env('京东金融天天试手气');
 """
 
@@ -85,7 +85,7 @@ def randomuserAgent():
         return UserAgent
 
 def JDSignValidator(url):
-    with open('JDSignValidator.js', 'r', encoding='utf-8') as f:
+    with open('JDJRSignValidator.js', 'r', encoding='utf-8') as f:
         jstext = f.read()
     js = execjs.compile(jstext)
     result = js.call('getBody', url)
@@ -160,6 +160,9 @@ if __name__ == '__main__':
         cks = re.findall(r'Cookie[0-9]*="(pt_key=.*?;pt_pin=.*?;)"', f.read())
         f.close()
     for ck in cks:
+        ck = ck.strip()
+        if ck[-1] != ';':
+            ck += ';'
         ptpin = re.findall(r"pt_pin=(.*?);", ck)[0]
         try:
             if remarkinfos[ptpin]!='':
