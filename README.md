@@ -9,7 +9,7 @@
 ### [TG频道](https://t.me/jddfruit)
 ## 青龙拉取链接
 ``` 
-ql repo https://github.com/gys619/jdd.git "jd_|jx_|jddj_|gua_|getJDCookie|wskey" "activity|backUp" "^jd[^_]|USER|utils|ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|jddj_cookie|function|ql|magic"
+ql repo https://github.com/gys619/JDD3.git "jd_|jx_|jddj_|gua_|getJDCookie|wskey" "activity|backUp" "^jd[^_]|USER|utils|ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|jddj_cookie|function|ql|magic"
 ```
 ```
 推荐定时 0 */4 * * *
@@ -296,16 +296,12 @@ ql repo https://github.com/panghu999/panghu.git "jd_"
 * [@kangwenhang](https://github.com/kangwenhang)
 * [@smiek2221](https://github.com/smiek2221/scripts.git)
 * [@yuannian1112](https://github.com/yuannian1112/jd_scripts.git)
-*  [@shufflewzc](https://github.com/shufflewzc/faker2.git)
+*  [@shufflewzc](https://github.com.cnpmjs.org/Hyominn/hyominnn.git)
 *  [@passerby-b](https://github.com/passerby-b/JDDJ.git)
 *  [@he1pu](https://github.com/he1pu/JDHelp.git)
-*  [@airacg](https://github.com/airacg/jd_task.git)
 *  [@ccwav](https://github.com/ccwav/QLScript2.git)
 *  [@Zy143L](https://github.com/Zy143L/wskey.git)
 *  [@X1a0He](https://github.com/X1a0He/jd_scripts_fixed)
-*  [@AlterGu](https://github.com/AlterGu/qinglong_note)
-*  [@KingRan](https://github.com/KingRan/JD-Scripts)
+*  [@KingRan](https://github.com/KingRan/JDJB)
 *  [@Aaron-lv](https://github.com/Aaron-lv/sync)
-*  [@zzfiu](https://github.com/zzfiu/jd.git)
 *  [@zero205](https://github.com/zero205/JD_tencent_scf)
-*  [@wuye999](https://github.com/wuye999/myScripts)
