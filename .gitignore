@@ -72,7 +72,7 @@ jd_nhjRed.js
 jd_nhRedEnvelope.js
 jd_nh*.js
 jd_nh_red.js
-!jd_nh_sign.js
+jd_nh_sign.js
 jd_Red.js
 ##
 jd_disable.py
@@ -129,7 +129,8 @@ jd_vivo.js
 jd_code.js
 jd_enc.js
 jd_help.js
-jd_speed_redpocke.js
+#极速版红包
+#jd_speed_redpocke.js
 jd_jxred.js
 jd_qjd_help.js
 gua_RedEnvelope.js
@@ -257,10 +258,13 @@ jd_tiger.js
 #天天领压岁钱
 jd_ttysq.js
 #击鼓助力
-jd_HappyNewYear_Share.js
+jd_HappyNewYear_Shares.js
 jd_drum.js
-gua_HappyNewYear_Share.js
-
+jd_HappyNewYear_Share.js
+#invokekey获取
+jd_work_invokeKey.js
+#锦鲤
+jd_redPacket.js
 
 
 ########过期活动##############
@@ -272,6 +276,11 @@ jd_hwmh.js
 #jd_jxlhb.js
 ###开卡
 jd_mt.js
+#京东金融天天试手气
+jd_btdraw.py
+#农场集勋章
+jd_medal.js
+
 
 ############不能跑的################
 # 通用游戏
@@ -282,6 +291,30 @@ jd_prodev_dailyTask.js
 jd_zhanianshou.js
 # 互助
 share_code.js
+#白条抽奖
+jd_bt_sign.js
+# 东东农场-集勋章合成兑换奖励
+jd_fruit_medalExchange.py
+# 财富岛100
+jd_cfdhb100.py
+jd_cfdhb111.py
+# 冬香节
+jd_dongxiang_benefits.py
+#农场天天红包抽奖
+jd_fruit_everydayRed.py
+#转喜豆
+jd_jd2xd.js
+#店铺签到ff
+jd_shopsign.js
+#星店长
+jd_xdz.py
+fanli.js
+jd_reward.ts
+
+
+
+
+
 jd_anjia.js
 jd_senbeans.js
 jd_cfd_help.js
@@ -297,21 +330,9 @@ jd_fcdyj.js
 #jd_look_video_common_enc.js
 #jd_share_common_enc.js
 # 1111
-!jd_fcwb.js
 #jd_xsqjd.js
-!jd_hbCount.py
 jd_getred.py
-!jd_jieMo.js
 jd_genz.js
-!jd_joypark_open.js
-!jd_lotteryMachine.js
-!jd_qjd.py
-!jd_redPacket.js
-!jd_refreshInvokeKey.js 
-!jd_reward.ts
-!jd_upgrade.js
-!jd_week.js
-!jd_xmf_exchange.js
 
 jd_jx_cfd_pearl_exchange.js
 jd_jx_factory_automation.js
