@@ -250,6 +250,18 @@ jd_zhaNS.js
 jd_sddd.js
 #健康社区收集能量
 jd_z_health_energy.js
+#wskey
+jd_wskey.py
+#萌虎摇摇乐
+jd_tiger.js
+#天天领压岁钱
+jd_ttysq.js
+#击鼓助力
+jd_HappyNewYear_Share.js
+jd_drum.js
+gua_HappyNewYear_Share.js
+
+
 
 ########过期活动##############
 
@@ -257,8 +269,9 @@ jd_z_health_energy.js
 jd_UnknownTask5.js
 jd_hwmh.js
 # 惊喜88红包
-jd_jxlhb.js
-
+#jd_jxlhb.js
+###开卡
+jd_mt.js
 
 ############不能跑的################
 # 通用游戏
@@ -276,6 +289,8 @@ wx_*.js
 jd_lzdz1_*.js
 jd_jinggengjcq_*.js
 jd_rush_*.js
+#重复的评价
+jd_evaluation.js
 #发财大赢家助力
 jd_fcdyj.js
 #jd_card_collecting_common_enc.js
